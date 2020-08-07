@@ -1,11 +1,8 @@
-# voice_recognition
 Hello Guys,
 
-In this code we can convert speech to text. 
+In this code we can convert speech to text.
 
-For this we need to install a module. You can do it by entering the bellow line into your terminal:
+For this the SpeechRecognition module has to be installed. This can be done by entering the below line into your terminal:
 
-      pip install SpeechRecognition
-      
-
+    pip install SpeechRecognition
 Thank You.
